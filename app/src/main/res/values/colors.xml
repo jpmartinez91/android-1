@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cabecera">#3D6DCD</color>
+    <color name="header">#CEDDFC</color>
+    <color name="claro">#618DE8</color>
+    <color name="medioclaro">#2250B0</color>
+    <color name="plomo">#ADB5C5</color>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/pato/AndroidStudioProjects/AppWEB/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/pato/AndroidStudioProjects/AppWEB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_92cc96d05dc6e9c817eb9db5f23ed6a649f81206/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pato/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/pato/AndroidStudioProjects/AppWEB/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_967d7ecbd2f2d683c87be39719bbb1a245f03c58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pato/.android/build-cache/dc97ba1f1e7d60a3ac1950ddf5d666399ffc0f60/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/pato/AndroidStudioProjects/AppWEB/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c1884b37525aa104cee59c46992b8a4b6bf2bf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pato/AndroidStudioProjects/AppWEB/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9d9f58d901d05c721045dd28db08c7eb398bdf36">
+        <dex dex="/home/pato/AndroidStudioProjects/AppWEB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_92326dae0ea462cf16c1740b819f535c6f3ec121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pato/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/pato/AndroidStudioProjects/AppWEB/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_9f8c50dc6452909017a5359d135b1c0ee57857be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pato/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/f5aa318bda4c6c8d688c9d00b90681dcd82ce636/httpcore-4.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="/home/pato/AndroidStudioProjects/AppWEB/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpcore-4.4.1_ef5d734c4f5be3c91335aabda857e484d52f60d6/classes.dex" />
+    </item>
+
+</items>
